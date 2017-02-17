@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/build/intermediates/res/merged/debug/drawable-hdpi/face_background.png",
+        "source": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/src/main/res/drawable-hdpi/face_background.png"
+    },
+    {
+        "merged": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/build/intermediates/res/merged/debug/drawable-hdpi/button_vertical.png",
+        "source": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/src/main/res/drawable-hdpi/button_vertical.png"
+    },
+    {
+        "merged": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/build/intermediates/res/merged/debug/drawable-hdpi/wall.png",
+        "source": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/src/main/res/drawable-hdpi/wall.png"
+    },
+    {
+        "merged": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/build/intermediates/res/merged/debug/drawable-hdpi/icon_stereo.png",
+        "source": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/src/main/res/drawable-hdpi/icon_stereo.png"
+    },
+    {
+        "merged": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/build/intermediates/res/merged/debug/drawable-hdpi/icon_single.png",
+        "source": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/src/main/res/drawable-hdpi/icon_single.png"
+    }
+]

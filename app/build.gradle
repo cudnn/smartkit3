@@ -1,0 +1,46 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "25.0.2"
+
+    defaultConfig {
+        applicationId "com.example.arframetest"
+        minSdkVersion 14
+        targetSdkVersion 19
+
+        ndk {
+            abiFilters   'armeabi-v7a'
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+    externalNativeBuild {
+        ndkBuild {
+            path 'src/main/jni/Android.mk'
+        }
+    }
+}
+
+dependencies {
+    compile 'com.android.support:support-v4:21.0.3'
+    compile files('libs/CameraFramework.jar')
+    compile files('libs/android-ex-camera2-portability.jar')
+    compile files('libs/ardor-animation-0.7-beta.jar')
+    compile files('libs/ardor-collada-0.7-beta.jar')
+    compile files('libs/ardor-core-0.7-beta.jar')
+    compile files('libs/cardboard.jar')
+    compile files('libs/crbcamera.jar')
+    compile files('libs/jaxen.jar')
+    compile files('libs/jdom.jar')
+    compile files('libs/jme-2.1.jar')
+    compile files('libs/jme-model-2.1.jar')
+    compile files('libs/jme-ogrexml-2.1.jar')
+    compile files('libs/jpct_ae.jar')
+    compile files('libs/opencvlibrary-2.4.7.1.jar')
+}

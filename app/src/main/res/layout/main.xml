@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <FrameLayout
+        android:id="@+id/mainLayout"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+    </FrameLayout>
+
+    <include
+        android:id="@+id/food_healty_layout"
+        layout="@layout/food_health" />
+
+    <include
+        android:id="@+id/food_healty_layout"
+        layout="@layout/food_fog" />
+
+    <include
+        android:id="@+id/face_info_layout"
+        layout="@layout/face_info" />
+    <com.lenovo.smartengine.view.SmartSceneInfoView
+        android:id="@+id/smart_scene_info_view"
+        android:layout_width= "fill_parent"
+        android:layout_height= "fill_parent"
+    />
+    <Button
+        android:id="@+id/button_icg"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:text="@string/buttonText"
+        android:onClick="switchICG"
+        >       
+    </Button>
+    
+    <Button
+        android:id="@+id/button_tld"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_marginTop="45dp"
+        android:text="@string/buttonTextTLD"
+        android:onClick="resetTLD"
+        >       
+    </Button>
+    <!--
+         <include  
+        android:id="@+id/qrcode_info_layout"  
+        layout="@layout/qrcode_info" />
+    -->
+
+</FrameLayout>

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/libs/opencvlibrary-2.4.7.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="86eadcb262772c81a64e33209922b9c7ed1ed056">
+        <dex dex="/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/build/intermediates/pre-dexed/debug/opencvlibrary-2.4.7.1_647c12244664e96ff7df37f04ce431b5aa137faf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/libs/CameraFramework.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="277bbd674fc48f90aca6ae46cb4073899c80dbe8">
+        <dex dex="/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/build/intermediates/pre-dexed/debug/CameraFramework_8a1bd008e44062537cea6c82d564d9caa1c0111b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3_e06a50fd700586a51086fb9964685483ac1c104a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/libs/ardor-animation-0.7-beta.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3328256518e31a3f34d7d5d8e60e050c960db9f2">
+        <dex dex="/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/build/intermediates/pre-dexed/debug/ardor-animation-0.7-beta_9bd823f7f6cce870c675b9e9d2b9e23418445a09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/libs/ardor-collada-0.7-beta.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="616ea2b1433dd86d13b4db81427079525275f6ec">
+        <dex dex="/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/build/intermediates/pre-dexed/debug/ardor-collada-0.7-beta_ed6a63a8e1d1b24130c36222775718bbd60081ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/libs/jme-model-2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8792a61141a8c5a0b96a692253a7cf3da7902838">
+        <dex dex="/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/build/intermediates/pre-dexed/debug/jme-model-2.1_319b47c48f11df3d268d8130a82bc7d7cb02af7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/libs/crbcamera.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="07d7a49e347eae9a6bc1ef67e10179d3441215f0">
+        <dex dex="/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/build/intermediates/pre-dexed/debug/crbcamera_9fed4f9a0b06895549b9aa663a922be82f3aa770.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/libs/jdom.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9986f2db44c7d183a861e72d3003eea1fcfe7a99">
+        <dex dex="/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/build/intermediates/pre-dexed/debug/jdom_532bd62268fa2350a64a7366b7656674f6725c94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/libs/jpct_ae.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="be484d9a9b9b8af7b11ebb79b0b6d74757fcd7ed">
+        <dex dex="/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/build/intermediates/pre-dexed/debug/jpct_ae_28845a3bd7e8d4f6883749910c432ed8591e0650.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/libs/ardor-core-0.7-beta.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e0cc4aa85c35ef280d64abeae19b541a81ae9170">
+        <dex dex="/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/build/intermediates/pre-dexed/debug/ardor-core-0.7-beta_ec9f932796d3a2affb444a6e7554b78e5624df93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/libs/jaxen.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9f5d3c5974dbe5cf69c2c2ec7d8a4eb6e0fce7f9">
+        <dex dex="/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/build/intermediates/pre-dexed/debug/jaxen_f9538c37599cad9e417f90d5b50453f29fa6b972.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/libs/android-ex-camera2-portability.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="63c0aa91590fabaa011ba7ceb9e8d2e4b23af4a2">
+        <dex dex="/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/build/intermediates/pre-dexed/debug/android-ex-camera2-portability_7aa5110f1f492e6d9074cbdce4eccdf28e3b9e17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/libs/cardboard.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7800973ef52ae629978ad974370b6a0b9bc79e25">
+        <dex dex="/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/build/intermediates/pre-dexed/debug/cardboard_6bf7f81ec02835a7253fb1ee4334488eb65efe01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/libs/jme-2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ab2621c30a532e780bcb73418e2d02d12c82201b">
+        <dex dex="/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/build/intermediates/pre-dexed/debug/jme-2.1_f178c65ad8149a12b02805e9dd1b2d0d7e627a6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/libs/jme-ogrexml-2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4802641662f431161b4a2846623dbb537de72f5">
+        <dex dex="/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/build/intermediates/pre-dexed/debug/jme-ogrexml-2.1_a7437595bc337a490d1c478ebf0b44710481a64f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cefengxu/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3_f2526bbe0c1a4ee52aaeb18d25dfeb3798e81588.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-21.0.3_239b574fa8db9fddc8e7ca3f66e1c14cafc060bd.jar" />
+    </item>
+
+</items>

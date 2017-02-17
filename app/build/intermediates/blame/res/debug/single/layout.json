@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/build/intermediates/res/merged/debug/layout/food_fog_stereo.xml",
+        "source": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/src/main/res/layout/food_fog_stereo.xml"
+    },
+    {
+        "merged": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/build/intermediates/res/merged/debug/layout/face_info_stereo.xml",
+        "source": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/src/main/res/layout/face_info_stereo.xml"
+    },
+    {
+        "merged": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/build/intermediates/res/merged/debug/layout/food_health.xml",
+        "source": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/src/main/res/layout/food_health.xml"
+    },
+    {
+        "merged": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/build/intermediates/res/merged/debug/layout/smart_ar_view.xml",
+        "source": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/src/main/res/layout/smart_ar_view.xml"
+    },
+    {
+        "merged": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/build/intermediates/res/merged/debug/layout/main_stereo.xml",
+        "source": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/src/main/res/layout/main_stereo.xml"
+    },
+    {
+        "merged": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/build/intermediates/res/merged/debug/layout/food_health_stereo.xml",
+        "source": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/src/main/res/layout/food_health_stereo.xml"
+    },
+    {
+        "merged": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/build/intermediates/res/merged/debug/layout/face_info.xml",
+        "source": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/src/main/res/layout/face_info.xml"
+    },
+    {
+        "merged": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/build/intermediates/res/merged/debug/layout/bk_food_health.xml",
+        "source": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/src/main/res/layout/bk_food_health.xml"
+    },
+    {
+        "merged": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/build/intermediates/res/merged/debug/layout/food_fog.xml",
+        "source": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/src/main/res/layout/food_fog.xml"
+    },
+    {
+        "merged": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/build/intermediates/res/merged/debug/layout/qrcode_info.xml",
+        "source": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/src/main/res/layout/qrcode_info.xml"
+    },
+    {
+        "merged": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/build/intermediates/res/merged/debug/layout/camera.xml",
+        "source": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/src/main/res/layout/camera.xml"
+    }
+]

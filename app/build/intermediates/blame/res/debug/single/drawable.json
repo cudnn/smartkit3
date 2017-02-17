@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/build/intermediates/res/merged/debug/drawable/face_background.png",
+        "source": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/src/main/res/drawable/face_background.png"
+    },
+    {
+        "merged": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/build/intermediates/res/merged/debug/drawable/rating_yellow.xml",
+        "source": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/src/main/res/drawable/rating_yellow.xml"
+    },
+    {
+        "merged": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/build/intermediates/res/merged/debug/drawable/button_vertical.png",
+        "source": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/src/main/res/drawable/button_vertical.png"
+    },
+    {
+        "merged": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/build/intermediates/res/merged/debug/drawable/phone.png",
+        "source": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/src/main/res/drawable/phone.png"
+    },
+    {
+        "merged": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/build/intermediates/res/merged/debug/drawable/email.png",
+        "source": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/src/main/res/drawable/email.png"
+    },
+    {
+        "merged": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/build/intermediates/res/merged/debug/drawable/health.png",
+        "source": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/src/main/res/drawable/health.png"
+    },
+    {
+        "merged": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/build/intermediates/res/merged/debug/drawable/star_empty.png",
+        "source": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/src/main/res/drawable/star_empty.png"
+    },
+    {
+        "merged": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/build/intermediates/res/merged/debug/drawable/web.png",
+        "source": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/src/main/res/drawable/web.png"
+    },
+    {
+        "merged": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/build/intermediates/res/merged/debug/drawable/dot_long.png",
+        "source": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/src/main/res/drawable/dot_long.png"
+    },
+    {
+        "merged": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/build/intermediates/res/merged/debug/drawable/star_half.png",
+        "source": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/src/main/res/drawable/star_half.png"
+    },
+    {
+        "merged": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/build/intermediates/res/merged/debug/drawable/star_full.png",
+        "source": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/src/main/res/drawable/star_full.png"
+    },
+    {
+        "merged": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/build/intermediates/res/merged/debug/drawable/dottt.png",
+        "source": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/src/main/res/drawable/dottt.png"
+    },
+    {
+        "merged": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/build/intermediates/res/merged/debug/drawable/fog.png",
+        "source": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/src/main/res/drawable/fog.png"
+    },
+    {
+        "merged": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/build/intermediates/res/merged/debug/drawable/dot.png",
+        "source": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/src/main/res/drawable/dot.png"
+    },
+    {
+        "merged": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/build/intermediates/res/merged/debug/drawable/xingxing.png",
+        "source": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/src/main/res/drawable/xingxing.png"
+    }
+]

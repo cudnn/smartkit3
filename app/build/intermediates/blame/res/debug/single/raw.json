@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/build/intermediates/res/merged/debug/raw/fly_crunch_v2.bones",
+        "source": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/src/main/res/raw/fly_crunch_v2.bones"
+    },
+    {
+        "merged": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/build/intermediates/res/merged/debug/raw/fly_crunch_new_version.bones",
+        "source": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/src/main/res/raw/fly_crunch_new_version.bones"
+    },
+    {
+        "merged": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/build/intermediates/res/merged/debug/raw/zootopia.mp4",
+        "source": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/src/main/res/raw/zootopia.mp4"
+    },
+    {
+        "merged": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/build/intermediates/res/merged/debug/raw/ant_black_uv.png",
+        "source": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/src/main/res/raw/ant_black_uv.png"
+    },
+    {
+        "merged": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/build/intermediates/res/merged/debug/raw/fly_crunch_twomotion.bones",
+        "source": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/src/main/res/raw/fly_crunch_twomotion.bones"
+    },
+    {
+        "merged": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/build/intermediates/res/merged/debug/raw/particle_vert_shad.glsl",
+        "source": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/src/main/res/raw/particle_vert_shad.glsl"
+    },
+    {
+        "merged": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/build/intermediates/res/merged/debug/raw/rgb_vert_shad.glsl",
+        "source": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/src/main/res/raw/rgb_vert_shad.glsl"
+    },
+    {
+        "merged": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/build/intermediates/res/merged/debug/raw/colorcube.png",
+        "source": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/src/main/res/raw/colorcube.png"
+    },
+    {
+        "merged": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/build/intermediates/res/merged/debug/raw/yuv2rgb_frag_shad.glsl",
+        "source": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/src/main/res/raw/yuv2rgb_frag_shad.glsl"
+    },
+    {
+        "merged": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/build/intermediates/res/merged/debug/raw/video_vert_shad.glsl",
+        "source": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/src/main/res/raw/video_vert_shad.glsl"
+    },
+    {
+        "merged": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/build/intermediates/res/merged/debug/raw/colorcube_copy.bones",
+        "source": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/src/main/res/raw/colorcube_copy.bones"
+    },
+    {
+        "merged": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/build/intermediates/res/merged/debug/raw/simple_fragment_shader.glsl",
+        "source": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/src/main/res/raw/simple_fragment_shader.glsl"
+    },
+    {
+        "merged": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/build/intermediates/res/merged/debug/raw/yuv2rgb_vert_shad.glsl",
+        "source": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/src/main/res/raw/yuv2rgb_vert_shad.glsl"
+    },
+    {
+        "merged": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/build/intermediates/res/merged/debug/raw/simple_vertex_shader.glsl",
+        "source": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/src/main/res/raw/simple_vertex_shader.glsl"
+    },
+    {
+        "merged": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/build/intermediates/res/merged/debug/raw/particle_frag_shad.glsl",
+        "source": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/src/main/res/raw/particle_frag_shad.glsl"
+    },
+    {
+        "merged": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/build/intermediates/res/merged/debug/raw/rgb_frag_shad.glsl",
+        "source": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/src/main/res/raw/rgb_frag_shad.glsl"
+    },
+    {
+        "merged": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/build/intermediates/res/merged/debug/raw/fly_body.png",
+        "source": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/src/main/res/raw/fly_body.png"
+    },
+    {
+        "merged": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/build/intermediates/res/merged/debug/raw/ant_black_crunch_uv.bones",
+        "source": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/src/main/res/raw/ant_black_crunch_uv.bones"
+    },
+    {
+        "merged": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/build/intermediates/res/merged/debug/raw/fly_complex_v2.bones",
+        "source": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/src/main/res/raw/fly_complex_v2.bones"
+    },
+    {
+        "merged": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/build/intermediates/res/merged/debug/raw/video_frag_shad.glsl",
+        "source": "/home/cefengxu/AndroidStudioProjects/170215-Smartkit/app/src/main/res/raw/video_frag_shad.glsl"
+    }
+]

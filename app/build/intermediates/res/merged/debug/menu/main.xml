@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.arframetest.MainActivity" >
+
+    <item
+        android:id="@+id/action_single"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_single"/>
+    <item
+        android:id="@+id/action_stereo"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_stereo"/>
+    <item
+        android:id="@+id/action_open_face"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="Open Face"/>
+    <item
+        android:id="@+id/action_close_face"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="Close Face"/>
+
+</menu>

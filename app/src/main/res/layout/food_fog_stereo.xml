@@ -1,0 +1,47 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#00000000" >
+
+    <FrameLayout
+        android:id="@+id/food_fog_lay"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:visibility="invisible" >
+
+        <ImageView
+            android:layout_width="145dp"
+            android:layout_height="145dp"
+            android:layout_column="0"
+            android:layout_gravity="left|top"
+            android:layout_marginBottom="5dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="20dp"
+            android:layout_row="1"
+            android:src="@drawable/fog" />
+    </FrameLayout>
+
+    <FrameLayout
+        android:id="@+id/food_fog_lay_right"
+        android:layout_width="wrap_content"
+        android:layout_height="400dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:visibility="invisible" >
+
+        <ImageView
+            android:layout_width="145dp"
+            android:layout_height="145dp"
+            android:layout_column="0"
+            android:layout_gravity="left|top"
+            android:layout_marginBottom="5dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="20dp"
+            android:layout_row="1"
+            android:src="@drawable/fog" />
+    </FrameLayout>
+
+</RelativeLayout>
